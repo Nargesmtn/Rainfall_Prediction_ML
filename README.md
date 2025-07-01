@@ -49,7 +49,9 @@ Both models were evaluated using:
 
 - Top 20 Feature Importances
 <img width="1038" alt="Screenshot 2025-07-01 at 1 57 07 PM" src="https://github.com/user-attachments/assets/47450de1-630a-480a-ab47-da18c8baa856" />
+
 - Confusion Matrices for both models
+
 <img width="550" alt="Screenshot 2025-07-01 at 1 58 42 PM" src="https://github.com/user-attachments/assets/8e496760-1d47-4153-bae8-530762c5b283" />
 <img width="630" alt="Screenshot 2025-07-01 at 1 58 58 PM" src="https://github.com/user-attachments/assets/2b687921-3f95-4f1c-8f70-44e9dc18603e" />
 
