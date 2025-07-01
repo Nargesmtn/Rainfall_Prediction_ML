@@ -53,7 +53,7 @@ Both models were evaluated using:
 - Confusion Matrices for both models
 
 <img width="550" alt="Screenshot 2025-07-01 at 1 58 42 PM" src="https://github.com/user-attachments/assets/8e496760-1d47-4153-bae8-530762c5b283" />
-<img width="630" alt="Screenshot 2025-07-01 at 1 58 58 PM" src="https://github.com/user-attachments/assets/2b687921-3f95-4f1c-8f70-44e9dc18603e" />
+<img width="550" alt="Screenshot 2025-07-01 at 1 58 58 PM" src="https://github.com/user-attachments/assets/2b687921-3f95-4f1c-8f70-44e9dc18603e" />
 
 ---
 
